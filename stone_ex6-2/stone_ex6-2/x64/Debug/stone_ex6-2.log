@@ -1,0 +1,4 @@
+﻿  stone_ex6-2.cpp
+E:\Project\Coding Wizard(C++)\stone_ex6-2\stone_ex6-2\stone_ex6-2.cpp(5,20): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+E:\Project\Coding Wizard(C++)\stone_ex6-2\stone_ex6-2\stone_ex6-2.cpp(5,31): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  stone_ex6-2.vcxproj -> E:\Project\Coding Wizard(C++)\stone_ex6-2\x64\Debug\stone_ex6-2.exe
