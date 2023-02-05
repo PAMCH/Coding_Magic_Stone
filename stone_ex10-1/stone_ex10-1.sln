@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stone_ex10-1", "stone_ex10-1\stone_ex10-1.vcxproj", "{ADB57B5C-859B-4410-AF21-1C88A21213FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB57B5C-859B-4410-AF21-1C88A21213FB}.Debug|x64.ActiveCfg = Debug|x64
+		{ADB57B5C-859B-4410-AF21-1C88A21213FB}.Debug|x64.Build.0 = Debug|x64
+		{ADB57B5C-859B-4410-AF21-1C88A21213FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{ADB57B5C-859B-4410-AF21-1C88A21213FB}.Debug|x86.Build.0 = Debug|Win32
+		{ADB57B5C-859B-4410-AF21-1C88A21213FB}.Release|x64.ActiveCfg = Release|x64
+		{ADB57B5C-859B-4410-AF21-1C88A21213FB}.Release|x64.Build.0 = Release|x64
+		{ADB57B5C-859B-4410-AF21-1C88A21213FB}.Release|x86.ActiveCfg = Release|Win32
+		{ADB57B5C-859B-4410-AF21-1C88A21213FB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7967308E-5E01-4052-9C91-3ABE9C35C6F2}
+	EndGlobalSection
+EndGlobal
