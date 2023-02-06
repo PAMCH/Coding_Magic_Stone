@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stone_ex21-3", "stone_ex21-3\stone_ex21-3.vcxproj", "{89B117FB-64C1-40F6-93C1-DF653D01F935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B117FB-64C1-40F6-93C1-DF653D01F935}.Debug|x64.ActiveCfg = Debug|x64
+		{89B117FB-64C1-40F6-93C1-DF653D01F935}.Debug|x64.Build.0 = Debug|x64
+		{89B117FB-64C1-40F6-93C1-DF653D01F935}.Debug|x86.ActiveCfg = Debug|Win32
+		{89B117FB-64C1-40F6-93C1-DF653D01F935}.Debug|x86.Build.0 = Debug|Win32
+		{89B117FB-64C1-40F6-93C1-DF653D01F935}.Release|x64.ActiveCfg = Release|x64
+		{89B117FB-64C1-40F6-93C1-DF653D01F935}.Release|x64.Build.0 = Release|x64
+		{89B117FB-64C1-40F6-93C1-DF653D01F935}.Release|x86.ActiveCfg = Release|Win32
+		{89B117FB-64C1-40F6-93C1-DF653D01F935}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5592289B-E72F-4B58-8EF3-20EA11077BA0}
+	EndGlobalSection
+EndGlobal
