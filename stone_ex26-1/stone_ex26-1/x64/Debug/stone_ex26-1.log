@@ -1,0 +1,4 @@
+﻿  stone_ex26-1.cpp
+E:\Project\Coding Wizard(C++)\stone_ex26-1\stone_ex26-1\stone_ex26-1.cpp(11,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\Project\Coding Wizard(C++)\stone_ex26-1\stone_ex26-1\stone_ex26-1.cpp(7,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+  stone_ex26-1.vcxproj -> E:\Project\Coding Wizard(C++)\stone_ex26-1\x64\Debug\stone_ex26-1.exe
