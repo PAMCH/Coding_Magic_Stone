@@ -12,12 +12,11 @@ int main()
 			sum += i;
 		}
 		if (sum > 50) {
-			printf("\n");
 			break;
 		}
 	}
 
-	printf("%d\n", sum);
+	printf("\n%d\n", sum);
 
 	return 0;
 }
