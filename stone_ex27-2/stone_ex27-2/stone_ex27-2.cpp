@@ -16,7 +16,8 @@ int main()
 		}
 	}
 
-	printf("%d\n", sum);
+	printf("%d\n", sum); // 수정
+
 
 	return 0;
 }
