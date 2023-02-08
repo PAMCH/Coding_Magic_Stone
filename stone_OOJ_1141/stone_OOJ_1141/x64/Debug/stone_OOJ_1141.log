@@ -1,0 +1,4 @@
+﻿  stone_OOJ_1141.cpp
+E:\Project\Coding Wizard(C++)\stone_OOJ_1141\stone_OOJ_1141\stone_OOJ_1141.cpp(13,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\Project\Coding Wizard(C++)\stone_OOJ_1141\stone_OOJ_1141\stone_OOJ_1141.cpp(21,12): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  stone_OOJ_1141.vcxproj -> E:\Project\Coding Wizard(C++)\stone_OOJ_1141\x64\Debug\stone_OOJ_1141.exe
