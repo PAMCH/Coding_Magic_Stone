@@ -8,7 +8,7 @@ int main()
 
 	scanf("%d", &a);
 
-	for (int i = 2; i <= a; i++) {
+	for (int i = 2; i <= a - 2; i++) {
 		cnt = 0;
 		b = sqrt(i);
 		for (int j = 2; j <= b; j++) {
