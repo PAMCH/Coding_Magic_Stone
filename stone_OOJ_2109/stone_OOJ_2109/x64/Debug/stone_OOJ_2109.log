@@ -1,0 +1,4 @@
+﻿  stone_OOJ_2109.cpp
+E:\Project\Coding Wizard(C++)\stone_OOJ_2109\stone_OOJ_2109\stone_OOJ_2109.cpp(8,33): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+E:\Project\Coding Wizard(C++)\stone_OOJ_2109\stone_OOJ_2109\stone_OOJ_2109.cpp(8,30): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+  stone_OOJ_2109.vcxproj -> E:\Project\Coding Wizard(C++)\stone_OOJ_2109\x64\Debug\stone_OOJ_2109.exe
